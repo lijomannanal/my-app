@@ -65,7 +65,7 @@ mysql -h 127.0.0.1 -u root -P 3306 -p demodb
 <br>
 
 <br>
-App configuration can be modified using .env file  at  the root folder
+App configuration can be modified using .env file  at  the root folder. Upon password prompt enter 'password' as the password
 
 <br>
 

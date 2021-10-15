@@ -30,8 +30,8 @@
 ### Starting Server App
 Starting the project in local environment.
 This will 
- 1) Bring up mysql db and server
- 2) Initliaze dumps from the database directory
+ 1) Brings up mysql db and server
+ 2) Initialize dumps from the database directory
 
 ```bash
 docker-compose up -d

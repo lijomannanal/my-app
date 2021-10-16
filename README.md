@@ -41,9 +41,9 @@ For server
 ```bash
 docker-compose logs -f server 
 ```
-db For db
+For db
 ```bash
-docker-compose logs -f 
+docker-compose logs -f db
 ```
 
 <br>

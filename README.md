@@ -37,6 +37,7 @@ This will
 docker-compose up -d
 ```
 We can check the status of services using the follwing commands:
+
 For server
 ```bash
 docker-compose logs -f server 

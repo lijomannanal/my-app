@@ -59,7 +59,7 @@ Swagger API documentation-
 http://localhost:8080/api-docs
 
 <br>
-DB will be access by the following commands
+DB can be accessed by the following commands
 mysql -h 127.0.0.1 -u root -P 3306 -p demodb
 Upon password prompt enter 'password' as the password
 

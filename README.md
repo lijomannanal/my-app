@@ -36,7 +36,7 @@ This will
 ```bash
 docker-compose up -d
 ```
-We can check the status of services using the follwing commands:
+We can check the status of services using the following commands:
 
 For server
 ```bash
